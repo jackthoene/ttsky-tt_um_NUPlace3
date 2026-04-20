@@ -52,5 +52,6 @@ pinout:
   uio[6]: "PC_2"
   uio[7]: "PC_3"
 
+
 # Do not change!
 yaml_version: 6
